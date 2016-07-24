@@ -1,0 +1,337 @@
+[22-Jul-2016 09:07:34 UTC] PHP Warning:  include(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:07:34 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:34 UTC] PHP Warning:  include(): Failed opening 'model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:07:34 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:34 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:07:34 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:34 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:07:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:07:34 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:34 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:07:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 140
+[22-Jul-2016 09:07:34 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:34 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:140
+[22-Jul-2016 09:07:54 UTC] PHP Warning:  include(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:07:54 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:54 UTC] PHP Warning:  include(): Failed opening 'model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:07:54 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:54 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:07:54 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:07:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:07:54 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:07:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 140
+[22-Jul-2016 09:07:54 UTC] PHP Stack trace:
+[22-Jul-2016 09:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:07:54 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:140
+[22-Jul-2016 09:08:09 UTC] PHP Warning:  include(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:08:09 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:09 UTC] PHP Warning:  include(): Failed opening 'model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:08:09 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:09 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:08:09 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:09 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:08:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:08:09 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:09 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:08:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 140
+[22-Jul-2016 09:08:09 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:09 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:140
+[22-Jul-2016 09:08:10 UTC] PHP Warning:  include(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:08:10 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:10 UTC] PHP Warning:  include(): Failed opening 'model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:08:10 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:08:10 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:08:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:08:10 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:08:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 140
+[22-Jul-2016 09:08:10 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:10 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:140
+[22-Jul-2016 09:08:18 UTC] PHP Warning:  include(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:08:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:18 UTC] PHP Warning:  include(): Failed opening 'model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:08:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:08:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:18 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:08:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 13
+[22-Jul-2016 09:08:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:18 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:13
+[22-Jul-2016 09:08:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 140
+[22-Jul-2016 09:08:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:08:18 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:140
+[22-Jul-2016 09:13:02 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:02 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:04 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:04 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:04 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:04 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:22 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:22 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:22 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:22 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:28 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:28 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:13:28 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:13:28 UTC] PHP Stack trace:
+[22-Jul-2016 09:13:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:14:00 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:14:00 UTC] PHP Stack trace:
+[22-Jul-2016 09:14:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:14:00 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 3
+[22-Jul-2016 09:14:00 UTC] PHP Stack trace:
+[22-Jul-2016 09:14:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:14:14 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/login.php on line 2
+[22-Jul-2016 09:14:14 UTC] PHP Stack trace:
+[22-Jul-2016 09:14:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/login.php:0
+[22-Jul-2016 09:14:14 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/login.php on line 2
+[22-Jul-2016 09:14:14 UTC] PHP Stack trace:
+[22-Jul-2016 09:14:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/login.php:0
+[22-Jul-2016 09:14:18 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/login.php on line 2
+[22-Jul-2016 09:14:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:14:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/login.php:0
+[22-Jul-2016 09:14:18 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/login.php on line 2
+[22-Jul-2016 09:14:18 UTC] PHP Stack trace:
+[22-Jul-2016 09:14:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/login.php:0
+[22-Jul-2016 09:32:02 UTC] PHP Warning:  include(../model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:32:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:32:02 UTC] PHP Warning:  include(): Failed opening '../model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:32:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:32:02 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 14
+[22-Jul-2016 09:32:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:32:02 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:14
+[22-Jul-2016 09:32:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 14
+[22-Jul-2016 09:32:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:32:02 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/project/shoppingcart/view/index.php:14
+[22-Jul-2016 09:32:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 141
+[22-Jul-2016 09:32:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:32:02 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:141
+[22-Jul-2016 09:35:32 UTC] PHP Warning:  require(model/class.crud.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:35:32 UTC] PHP Stack trace:
+[22-Jul-2016 09:35:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:35:32 UTC] PHP Fatal error:  require(): Failed opening required 'model/class.crud.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 2
+[22-Jul-2016 09:35:32 UTC] PHP Stack trace:
+[22-Jul-2016 09:35:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:35:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 143
+[22-Jul-2016 09:35:59 UTC] PHP Stack trace:
+[22-Jul-2016 09:35:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:35:59 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:143
+[22-Jul-2016 09:37:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 143
+[22-Jul-2016 09:37:14 UTC] PHP Stack trace:
+[22-Jul-2016 09:37:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:37:14 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:143
+[22-Jul-2016 09:37:26 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 13
+[22-Jul-2016 09:37:26 UTC] PHP Stack trace:
+[22-Jul-2016 09:37:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:38:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 143
+[22-Jul-2016 09:38:40 UTC] PHP Stack trace:
+[22-Jul-2016 09:38:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:38:40 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:143
+[22-Jul-2016 09:38:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 143
+[22-Jul-2016 09:38:51 UTC] PHP Stack trace:
+[22-Jul-2016 09:38:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[22-Jul-2016 09:38:51 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/project/shoppingcart/view/index.php:143
+[22-Jul-2016 09:50:21 UTC] PHP Warning:  include(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/connect.php on line 14
+[22-Jul-2016 09:50:21 UTC] PHP Stack trace:
+[22-Jul-2016 09:50:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/connect.php:0
+[22-Jul-2016 09:50:21 UTC] PHP Warning:  include(): Failed opening 'model/mysql_connect.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/connect.php on line 14
+[22-Jul-2016 09:50:21 UTC] PHP Stack trace:
+[22-Jul-2016 09:50:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/connect.php:0
+[22-Jul-2016 09:50:21 UTC] PHP Fatal error:  Call to undefined method CRUD::result() in /home/ubuntu/workspace/project/shoppingcart/view/connect.php on line 24
+[22-Jul-2016 09:50:21 UTC] PHP Stack trace:
+[22-Jul-2016 09:50:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/connect.php:0
+[22-Jul-2016 09:50:37 UTC] PHP Fatal error:  Call to undefined method CRUD::result() in /home/ubuntu/workspace/project/shoppingcart/view/connect.php on line 24
+[22-Jul-2016 09:50:37 UTC] PHP Stack trace:
+[22-Jul-2016 09:50:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/connect.php:0
+[22-Jul-2016 09:50:59 UTC] PHP Fatal error:  Call to undefined method CRUD::result() in /home/ubuntu/workspace/project/shoppingcart/view/connect.php on line 24
+[22-Jul-2016 09:50:59 UTC] PHP Stack trace:
+[22-Jul-2016 09:50:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/connect.php:0
+[22-Jul-2016 09:51:02 UTC] PHP Fatal error:  Call to undefined method CRUD::result() in /home/ubuntu/workspace/project/shoppingcart/view/connect.php on line 24
+[22-Jul-2016 09:51:02 UTC] PHP Stack trace:
+[22-Jul-2016 09:51:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/connect.php:0
+[22-Jul-2016 09:52:23 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:52:23 UTC] PHP Stack trace:
+[22-Jul-2016 09:52:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:52:23 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:52:23 UTC] PHP Stack trace:
+[22-Jul-2016 09:52:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:52:52 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:52:52 UTC] PHP Stack trace:
+[22-Jul-2016 09:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:52:52 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:52:52 UTC] PHP Stack trace:
+[22-Jul-2016 09:52:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:53:08 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:53:08 UTC] PHP Stack trace:
+[22-Jul-2016 09:53:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:53:08 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:53:08 UTC] PHP Stack trace:
+[22-Jul-2016 09:53:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:56:20 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:56:20 UTC] PHP Stack trace:
+[22-Jul-2016 09:56:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 09:56:20 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 09:56:20 UTC] PHP Stack trace:
+[22-Jul-2016 09:56:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:00:53 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:00:53 UTC] PHP Stack trace:
+[22-Jul-2016 10:00:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:00:53 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:00:53 UTC] PHP Stack trace:
+[22-Jul-2016 10:00:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:07:59 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:07:59 UTC] PHP Stack trace:
+[22-Jul-2016 10:07:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:07:59 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:07:59 UTC] PHP Stack trace:
+[22-Jul-2016 10:07:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:09:08 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:09:08 UTC] PHP Stack trace:
+[22-Jul-2016 10:09:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:09:08 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:09:08 UTC] PHP Stack trace:
+[22-Jul-2016 10:09:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:09:44 UTC] PHP Warning:  require_once(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:09:44 UTC] PHP Stack trace:
+[22-Jul-2016 10:09:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:09:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 3
+[22-Jul-2016 10:09:44 UTC] PHP Stack trace:
+[22-Jul-2016 10:09:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:10:08 UTC] PHP Warning:  require(model/class.crud.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 4
+[22-Jul-2016 10:10:08 UTC] PHP Stack trace:
+[22-Jul-2016 10:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:10:08 UTC] PHP Fatal error:  require(): Failed opening required 'model/class.crud.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 4
+[22-Jul-2016 10:10:08 UTC] PHP Stack trace:
+[22-Jul-2016 10:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:10:21 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 82
+[22-Jul-2016 10:10:21 UTC] PHP Stack trace:
+[22-Jul-2016 10:10:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:10:21 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:82
+[22-Jul-2016 10:11:47 UTC] PHP Warning:  Missing argument 1 for CRUD::readmemberlist(), called in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 80 and defined in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 8
+[22-Jul-2016 10:11:47 UTC] PHP Stack trace:
+[22-Jul-2016 10:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:11:47 UTC] PHP   2. CRUD->readmemberlist() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:80
+[22-Jul-2016 10:11:47 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 82
+[22-Jul-2016 10:11:47 UTC] PHP Stack trace:
+[22-Jul-2016 10:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:11:47 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:82
+[22-Jul-2016 10:11:57 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 82
+[22-Jul-2016 10:11:57 UTC] PHP Stack trace:
+[22-Jul-2016 10:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:11:57 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:82
+[22-Jul-2016 10:13:17 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 82
+[22-Jul-2016 10:13:17 UTC] PHP Stack trace:
+[22-Jul-2016 10:13:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:13:17 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:82
+[22-Jul-2016 10:15:37 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/project/shoppingcart/view/secret.php on line 82
+[22-Jul-2016 10:15:37 UTC] PHP Stack trace:
+[22-Jul-2016 10:15:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:0
+[22-Jul-2016 10:15:37 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/shoppingcart/view/secret.php:82
+[23-Jul-2016 00:42:46 UTC] PHP Warning:  require(control/btn.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/regist.php on line 3
+[23-Jul-2016 00:42:46 UTC] PHP Stack trace:
+[23-Jul-2016 00:42:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/regist.php:0
+[23-Jul-2016 00:42:46 UTC] PHP Fatal error:  require(): Failed opening required 'control/btn.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/regist.php on line 3
+[23-Jul-2016 00:42:46 UTC] PHP Stack trace:
+[23-Jul-2016 00:42:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/regist.php:0
+[23-Jul-2016 00:57:24 UTC] PHP Warning:  require(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/cart.php on line 54
+[23-Jul-2016 00:57:24 UTC] PHP Stack trace:
+[23-Jul-2016 00:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/cart.php:0
+[23-Jul-2016 00:57:24 UTC] PHP Fatal error:  require(): Failed opening required 'model/mysql_connect.inc.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/cart.php on line 54
+[23-Jul-2016 00:57:24 UTC] PHP Stack trace:
+[23-Jul-2016 00:57:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/cart.php:0
+[23-Jul-2016 01:18:25 UTC] PHP Warning:  require(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/cart.php on line 54
+[23-Jul-2016 01:18:25 UTC] PHP Stack trace:
+[23-Jul-2016 01:18:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/cart.php:0
+[23-Jul-2016 01:18:25 UTC] PHP Fatal error:  require(): Failed opening required 'model/mysql_connect.inc.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/cart.php on line 54
+[23-Jul-2016 01:18:25 UTC] PHP Stack trace:
+[23-Jul-2016 01:18:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/cart.php:0
+[23-Jul-2016 01:20:03 UTC] PHP Warning:  require(model/mysql_connect.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/checkout.php on line 15
+[23-Jul-2016 01:20:03 UTC] PHP Stack trace:
+[23-Jul-2016 01:20:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/checkout.php:0
+[23-Jul-2016 01:20:03 UTC] PHP Fatal error:  require(): Failed opening required 'model/mysql_connect.inc.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/checkout.php on line 15
+[23-Jul-2016 01:20:03 UTC] PHP Stack trace:
+[23-Jul-2016 01:20:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/checkout.php:0
+[23-Jul-2016 01:32:31 UTC] PHP Fatal error:  Call to a member function deletet() on a non-object in /home/ubuntu/workspace/project/shoppingcart/control/delet_finish.php on line 15
+[23-Jul-2016 01:32:31 UTC] PHP Stack trace:
+[23-Jul-2016 01:32:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/control/delet_finish.php:0
+[23-Jul-2016 01:35:06 UTC] PHP Fatal error:  Call to a member function deletet() on a non-object in /home/ubuntu/workspace/project/shoppingcart/model/delet_finish.php on line 15
+[23-Jul-2016 01:35:06 UTC] PHP Stack trace:
+[23-Jul-2016 01:35:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/model/delet_finish.php:0
+[23-Jul-2016 01:38:19 UTC] PHP Fatal error:  Call to a member function deletet() on a non-object in /home/ubuntu/workspace/project/shoppingcart/model/delet_finish.php on line 15
+[23-Jul-2016 01:38:19 UTC] PHP Stack trace:
+[23-Jul-2016 01:38:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/model/delet_finish.php:0
+[23-Jul-2016 06:00:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 58
+[23-Jul-2016 06:00:47 UTC] PHP Stack trace:
+[23-Jul-2016 06:00:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/update.php:0
+[23-Jul-2016 06:02:09 UTC] PHP Warning:  Missing argument 1 for CRUD::update(), called in /home/ubuntu/workspace/project/shoppingcart/view/update.php on line 32 and defined in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 51
+[23-Jul-2016 06:02:09 UTC] PHP Stack trace:
+[23-Jul-2016 06:02:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/update.php:0
+[23-Jul-2016 06:02:09 UTC] PHP   2. CRUD->update() /home/ubuntu/workspace/project/shoppingcart/view/update.php:32
+[23-Jul-2016 06:02:09 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/project/shoppingcart/view/update.php on line 33
+[23-Jul-2016 06:02:09 UTC] PHP Stack trace:
+[23-Jul-2016 06:02:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/update.php:0
+[23-Jul-2016 06:02:09 UTC] PHP   2. mysql_fetch_row() /home/ubuntu/workspace/project/shoppingcart/view/update.php:33
+[23-Jul-2016 06:02:49 UTC] PHP Warning:  Missing argument 1 for CRUD::update(), called in /home/ubuntu/workspace/project/shoppingcart/view/update.php on line 32 and defined in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 51
+[23-Jul-2016 06:02:49 UTC] PHP Stack trace:
+[23-Jul-2016 06:02:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/update.php:0
+[23-Jul-2016 06:02:49 UTC] PHP   2. CRUD->update() /home/ubuntu/workspace/project/shoppingcart/view/update.php:32
+[23-Jul-2016 06:02:52 UTC] PHP Warning:  Missing argument 1 for CRUD::update(), called in /home/ubuntu/workspace/project/shoppingcart/view/update.php on line 32 and defined in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 51
+[23-Jul-2016 06:02:52 UTC] PHP Stack trace:
+[23-Jul-2016 06:02:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/update.php:0
+[23-Jul-2016 06:02:52 UTC] PHP   2. CRUD->update() /home/ubuntu/workspace/project/shoppingcart/view/update.php:32
+[23-Jul-2016 06:55:53 UTC] PHP Warning:  require_once(connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 4
+[23-Jul-2016 06:55:53 UTC] PHP Stack trace:
+[23-Jul-2016 06:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[23-Jul-2016 06:55:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project/shoppingcart/view/index.php on line 4
+[23-Jul-2016 06:55:53 UTC] PHP Stack trace:
+[23-Jul-2016 06:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[23-Jul-2016 06:56:14 UTC] PHP Fatal error:  Cannot redeclare class CRUD in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 4
+[23-Jul-2016 06:56:14 UTC] PHP Stack trace:
+[23-Jul-2016 06:56:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[23-Jul-2016 06:56:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/project/shoppingcart/view/index.php:4
+[23-Jul-2016 06:56:38 UTC] PHP Fatal error:  Cannot redeclare class CRUD in /home/ubuntu/workspace/project/shoppingcart/model/class.crud.php on line 4
+[23-Jul-2016 06:56:38 UTC] PHP Stack trace:
+[23-Jul-2016 06:56:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project/shoppingcart/view/index.php:0
+[23-Jul-2016 06:56:38 UTC] PHP   2. require() /home/ubuntu/workspace/project/shoppingcart/view/index.php:4
